@@ -13,7 +13,7 @@
         custom:max="100"
         custom:progress_color="@color/material_pink"
         custom:progress_icon="@drawable/speed"
-        custom:duration="1000"
+        custom:animDuration="1000"
         android:layout_centerInParent="true"
         android:layout_width="300dp"
         android:layout_height="300dp">

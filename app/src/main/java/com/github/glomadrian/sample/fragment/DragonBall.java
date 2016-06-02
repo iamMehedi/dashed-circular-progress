@@ -20,7 +20,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.github.glomadrian.dashedcircularprogress.DashedCircularProgress;
-import com.github.glomadrian.dashedcircularprogress.utils.ViewPagerTransformer;
+import com.github.glomadrian.sample.utils.ViewPagerTransformer;
 import com.github.glomadrian.sample.R;
 
 /**

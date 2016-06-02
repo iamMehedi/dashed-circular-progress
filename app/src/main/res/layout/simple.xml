@@ -13,7 +13,7 @@
         custom:max="999"
         custom:progress_color="@color/abc_primary_text_material_dark"
         custom:progress_icon="@drawable/star"
-        custom:duration="3500"
+        custom:animDuration="3500"
         custom:progress_stroke_width="96"
         android:layout_centerInParent="true"
         android:layout_width="300dp"

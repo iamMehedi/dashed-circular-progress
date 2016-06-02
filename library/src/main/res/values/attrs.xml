@@ -7,7 +7,8 @@
         <attr name="max" format="float" />
         <attr name="min" format="float" />
         <attr name="progress_icon" format="reference" />
-        <attr name="duration" format="integer" />
+        <attr name="animDuration" format="integer" />
         <attr name="progress_stroke_width" format="integer" />
+        <attr name="show_external" format="boolean"/>
     </declare-styleable>
 </resources>
